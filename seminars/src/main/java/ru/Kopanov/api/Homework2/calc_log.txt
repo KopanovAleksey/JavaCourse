@@ -1,0 +1,15 @@
+июн. 30, 2023 2:48:16 PM ru.Kopanov.api.Homework2.Homework2 simple_calculator
+INFO: simple_calculator start
+
+июн. 30, 2023 2:48:25 PM ru.Kopanov.api.Homework2.Homework2 simple_calculator
+INFO: Program result: 1,00 / 2,00 = 0,50
+
+июн. 30, 2023 2:48:34 PM ru.Kopanov.api.Homework2.Homework2 simple_calculator
+INFO: simple_calculator continue
+
+июн. 30, 2023 2:48:41 PM ru.Kopanov.api.Homework2.Homework2 simple_calculator
+INFO: Program result: Wrong operator input !
+
+июн. 30, 2023 2:48:45 PM ru.Kopanov.api.Homework2.Homework2 simple_calculator
+INFO: simple_calculator stopped
+

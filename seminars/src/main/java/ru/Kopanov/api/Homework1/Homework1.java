@@ -82,20 +82,20 @@ public class Homework1 {
             double second_number = scanner.nextDouble();
             switch (operator) {
                 case "+" ->
-                        System.out.printf("%f + %f = %f\n", first_number, second_number, first_number + second_number);
+                        System.out.printf("%.2f + %.2f = %.2f\n", first_number, second_number, first_number + second_number);
                 case "-" ->
-                        System.out.printf("%f - %f = %f\n", first_number, second_number, first_number - second_number);
+                        System.out.printf("%.2f - %.2f = %.2f\n", first_number, second_number, first_number - second_number);
                 case "*" ->
-                        System.out.printf("%f * %f = %f\n", first_number, second_number, first_number * second_number);
+                        System.out.printf("%.2f * %.2f = %.2f\n", first_number, second_number, first_number * second_number);
                 case "/" -> {
                     if (second_number == 0) {
                         System.out.println("Ошибка: Деление на ноль !");
                         break;
                     }
-                    System.out.printf("%f / %f = %f\n", first_number, second_number, first_number / second_number);
+                    System.out.printf("%.2f / %.2f = %.2f\n", first_number, second_number, first_number / second_number);
                 }
                 case "^" ->
-                        System.out.printf("%f ^ %f = %f\n", first_number, second_number, Math.pow(first_number, second_number));
+                        System.out.printf("%.2f ^ %.2f = %.2f\n", first_number, second_number, Math.pow(first_number, second_number));
                 default -> System.out.println("Введен недопустимый оператор!");
             }
             System.out.println();
