@@ -1,13 +1,7 @@
 package ru.Kopanov.api.Homework4;
 
-import ru.Kopanov.api.Homework2.Homework2;
-
-import java.io.IOException;
 import java.util.*;
-import java.util.logging.FileHandler;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import java.util.logging.SimpleFormatter;
+
 
 public class homework4 {
 static Random random = new Random();

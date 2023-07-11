@@ -1,7 +1,4 @@
 package ru.Kopanov.api.Seminar4;
-
-import com.sun.source.tree.WhileLoopTree;
-
 import java.util.*;
 
 public class seminar4 {
