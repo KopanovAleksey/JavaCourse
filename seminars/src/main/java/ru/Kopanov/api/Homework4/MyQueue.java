@@ -4,7 +4,7 @@ import java.util.EmptyStackException;
 import java.util.LinkedList;
 
 public class MyQueue {
-    private LinkedList<Integer> elements = new LinkedList();
+    private LinkedList<Integer> elements = new LinkedList<>();
 
     public void enqueue(int e){
         elements.add(e);

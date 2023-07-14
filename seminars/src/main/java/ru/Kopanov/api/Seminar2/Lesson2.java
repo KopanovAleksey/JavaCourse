@@ -31,9 +31,6 @@ public class Lesson2 {
     }
 
     public static void task1() {
-        int a = 12;
-        double b = 14.5;
-        String s = "AAA" + "BBB" + a + b;
         System.out.println(UUID.randomUUID());
         System.out.println(UUID.randomUUID());
         System.out.println(UUID.randomUUID());

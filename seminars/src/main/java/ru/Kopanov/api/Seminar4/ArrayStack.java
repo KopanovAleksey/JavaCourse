@@ -1,6 +1,6 @@
 package ru.Kopanov.api.Seminar4;
 
-import java.util.ArrayList;
+
 import java.util.EmptyStackException;
 
 public class ArrayStack {
